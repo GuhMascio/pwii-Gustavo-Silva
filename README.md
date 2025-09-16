@@ -84,13 +84,4 @@ Acesse http://localhost:8000
 
 Você verá a página padrão do Laravel
 
-🛠️ Próximos Passos
 
-Aqui estão algumas coisas que você pode fazer após a instalação básica:
-
-Tarefa	Comando ou Arquivo
-Criar uma model com migration	php artisan make:model Nome -m
-Criar um controller	php artisan make:controller NomeController
-Criar uma rota	routes/web.php
-Criar um view Blade	resources/views/
-Usar Tinker (testes rápidos)	php artisan tinker
