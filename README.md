@@ -9,7 +9,7 @@ Aulas de Programação Web II com os professores João Siles e Ricardo Palhares
 
 **Experiências e Atividades:** Este perfil será utilizado para documentar minhas atividades, projetos acadêmicos, experiências práticas e participações em iniciativas tecnológicas e de inovação.
 
-CRIAÇÂO e CONFIGURAÇÂO do projeto LARAVEL
+CRIAÇÃO e CONFIGURAÇÃO do projeto LARAVEL
 
 ✅ Requisitos
 
